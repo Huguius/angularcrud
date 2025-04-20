@@ -1,0 +1,22 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Hugo",
+      "sobrenome": "Silva",
+      "dtNascimento": "2005-01-10"
+    },
+    {
+      "id": "2",
+      "nome": "Valentina",
+      "sobrenome": "Guimaraes",
+      "dtNascimento": "2007-08-14"
+    },
+    {
+      "id": "3",
+      "nome": "Gabriel",
+      "sobrenome": "Shiquedoni",
+      "dtNascimento": "2006-08-14"
+    }
+  ]
+}
